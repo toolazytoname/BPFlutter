@@ -1,0 +1,23 @@
+PODS:
+  - BPFlutter (0.1.0):
+    - Bugly
+  - Bugly (2.5.2)
+
+DEPENDENCIES:
+  - BPFlutter (from `../../`)
+
+SPEC REPOS:
+  http://gitlab.bitautotech.com/WP/Mobile/IOS/Specs:
+    - Bugly
+
+EXTERNAL SOURCES:
+  BPFlutter:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  BPFlutter: a8305bfc2abb735d471d605642cb4955c27dc63c
+  Bugly: 0d50129415d2a73422f073c5c7cbb9443783d699
+
+PODFILE CHECKSUM: 8a1460985b0cd5d77d6ef41bca2e4a92556c7153
+
+COCOAPODS: 1.6.1
